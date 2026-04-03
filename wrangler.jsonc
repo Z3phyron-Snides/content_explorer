@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "main": ".open-next/worker.js",
-  "name": "content_explorer",
+  "name": "contentexplorer",
   // Set this to today's date
   "compatibility_date": "2026-04-03",
   "compatibility_flags": [
