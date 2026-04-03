@@ -1,5 +1,4 @@
-// app/products/[id]/page.tsx
-import Image from "next/image";
+
 import { notFound } from "next/navigation";
 import { getProductById } from "@/lib/api";
 import { Metadata } from "next";

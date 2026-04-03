@@ -1,4 +1,3 @@
-// components/ui/Breadcrumb.tsx
 import Link from 'next/link';
 
 interface BreadcrumbProps {

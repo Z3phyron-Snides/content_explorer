@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("http://localhost:3000"),
+  metadataBase: new URL("https://contentexplorer.rickettsrowland1798.workers.dev"),
 
   title: "Checkit Content Explorer | Products",
   description:
@@ -22,8 +22,8 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Checkit Content Explorer",
     description:
-      "Production-quality product browser built with Next.js 15 App Router",
-    images: ["/og-image.jpg"], // we'll add this later if needed
+      "Production-quality product browser built with Next.js App Router",
+    images: ["/og.png"],
     type: "website",
   },
 };

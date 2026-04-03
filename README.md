@@ -2,7 +2,7 @@
 
 **Production-quality product browser built for the Checkit Frontend Engineer Take-Home Assessment**
 
-![Product Explorer Screenshot](https://github.com/Z3phyron-Snides/content_explorer/raw/main/public/og-image.jpg)
+![Product Explorer Screenshot](https://github.com/Z3phyron-Snides/content_explorer/raw/main/public/og.png)
 
 
 

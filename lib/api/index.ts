@@ -1,4 +1,3 @@
-// lib/api.ts
 import { Category, Product, ProductsResponse } from "@/lib/types";
 
 const BASE_URL = "https://dummyjson.com/products";
